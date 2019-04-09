@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#7424B8</color>
+    <color name="colorPrimaryDark">#297ACF</color>
+    <color name="colorAccent">#FFFFFF</color>
+    <color name="back_register">#CCA9E9</color>
+    <color name="colorLikeFace">#3578E5</color>
+    <color name="colorLikeFaceDefault">#DDDDDD</color>
+</resources>
